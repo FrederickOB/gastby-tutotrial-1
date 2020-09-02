@@ -11,6 +11,9 @@ const IndexPage = () => (
 
     <p>Welcome to me website.</p>
     <p>This is a sample site for Gatsby</p>
+    <canvas
+      style={{ width: "200px", height: "200px", border: "2px solid black" }}
+    />
   </Layout>
 )
 
